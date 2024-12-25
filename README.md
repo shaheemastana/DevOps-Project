@@ -8,10 +8,9 @@ Docker Compose включает в себя три сервиса:
 
 - http://localhost:3000/ - GET запрос выводит список созданный users
 
-![image](https://github.com/user-attachments/assets/96feb2e5-0598-433e-973e-a0f482243542)
 
 - Администрирование БД - для подключения перейти по ссылке http://localhost:15432/
 
-![image](https://github.com/user-attachments/assets/ec61e217-8b27-48d8-92e1-4d48a934d0ec)
+
 
 
